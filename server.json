@@ -1,0 +1,82 @@
+{
+  "tovar": [
+    {
+      "title": "iphone 11",
+      "img": "./img/p1.jpg",
+      "skidka": "180 000₽",
+      "percent": "20"
+    },
+    {
+      "title": "iphone 13 pro",
+      "price": "120 000₽",
+      "skidka": "180 000₽",
+      "percent": "-20%"
+    },
+    {
+      "title": "iphone 14",
+      "price": "120 000₽",
+      "skidka": "180 000₽",
+      "percent": "-20%"
+    },
+    {
+      "title": "iphone 14 pro",
+      "price": "120 000₽",
+      "skidka": "180 000₽",
+      "percent": "-20%"
+    },
+    {
+      "title": "car",
+      "price": "32000$",
+      "skidka": "15%",
+      "percent": "15$",
+      "id": 5
+    }
+  ],
+  "odejda": [
+    {
+      "title": "iphone 12",
+      "img": "./img/p1.jpg",
+      "skidka": "180 000₽",
+      "percent": "-20%"
+    },
+    {
+      "title": "iphone 13 pro",
+      "price": "120 000₽",
+      "skidka": "180 000₽",
+      "percent": "-20%"
+    },
+    {
+      "title": "iphone 14",
+      "price": "120 000₽",
+      "skidka": "180 000₽",
+      "percent": "-20%"
+    },
+    {
+      "title": "iphone 14 pro",
+      "price": "120 000₽",
+      "skidka": "180 000₽",
+      "percent": "-20%"
+    },
+    {
+      "title": "iphone 15 но это точно",
+      "price": "120 000₽",
+      "skidka": "180 000₽",
+      "percent": "-50%",
+      "id": 5
+    },
+    {
+      "title": "iphone 15 но это точно",
+      "price": "120 000₽",
+      "skidka": "180 000₽",
+      "percent": "-50%",
+      "id": 7
+    },
+    {
+      "title": "iphone 15 но это не точно",
+      "price": "120 000₽",
+      "skidka": "180 000₽",
+      "percent": "-20%",
+      "id": 40
+    }
+  ]
+}
